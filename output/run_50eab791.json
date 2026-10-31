@@ -1,0 +1,13 @@
+{
+  "run_id": "50eab791-0061-46b7-b14c-1a6d2766e3f9",
+  "status": "success",
+  "started_at": "2026-10-31T07:56:49+00:00",
+  "customer_input": 10000,
+  "order_input": 100000,
+  "customer_inserted": 0,
+  "order_inserted": 0,
+  "rejected": 0,
+  "customer_file_sha256": "37c89cce5460a240fe9a8034d124b41f0a49a96a3948c3f820d8624633da6c8f",
+  "order_file_sha256": "7bf9ab1cc2dec3fa81c032d7deb2f3ddc6d5ad73460f91b4439438b90f816b90",
+  "database": "output\\warehouse.db"
+}

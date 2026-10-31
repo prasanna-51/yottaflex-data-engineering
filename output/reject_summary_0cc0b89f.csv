@@ -1,0 +1,10 @@
+reason,rejected_rows
+duplicate_customer_id,1
+duplicate_order_id,1
+invalid_email,1
+invalid_order_timestamp,1
+malformed_column_count,1
+non_positive_amount,1
+null_customer_id,1
+null_order_id,1
+unknown_customer_id,1
